@@ -6,13 +6,16 @@ import LocationSearchingIcon from '@mui/icons-material/LocationSearching';
 import MailOutlineIcon from '@mui/icons-material/MailOutline';
 import PermIdentityIcon from '@mui/icons-material/PermIdentity';
 import PublishIcon from '@mui/icons-material/Publish';
+import { Link } from 'react-router-dom';
 
 const User = () => {
     return (
         <div className="user"> 
             <div className="userTitleContainer">
                 <h1 className="userTitle">Edit User</h1>
-                <button className="userAddButton">Create</button>
+                <Link to= "/newUser" >
+                    <button className="userAddButton">Create</button>
+                </Link>    
             </div>
             <div className="userContainer">
                 <div className="userShow">
