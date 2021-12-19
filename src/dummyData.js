@@ -121,3 +121,76 @@ export const userRows = [
         transaction: "$120.00"
     },
   ]
+
+export const productRows = [
+    { id: 1, 
+      productName: 'Apple Airpods+',
+      image: "https://images.unsplash.com/photo-1610438235354-a6ae5528385c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXBwbGUlMjBhaXJwb2RzfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      stock: "1234", 
+      status: "active", 
+      price: "$120.00"
+    },
+    { id: 2,
+      productName: 'Apple Airpods+',
+      image: "https://images.unsplash.com/photo-1610438235354-a6ae5528385c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXBwbGUlMjBhaXJwb2RzfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      stock: "1234", 
+      status: "active", 
+      price: "$120.00"
+    },
+    { id: 3, 
+      productName: 'Apple Airpods+',
+      image: "https://images.unsplash.com/photo-1610438235354-a6ae5528385c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXBwbGUlMjBhaXJwb2RzfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      stock: "1234", 
+      status: "active", 
+      price: "$120.00"
+    },
+    { id: 4, 
+      productName: 'Apple Airpods+',
+      image: "https://images.unsplash.com/photo-1610438235354-a6ae5528385c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXBwbGUlMjBhaXJwb2RzfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      stock: "1234", 
+      status: "active", 
+      price: "$120.00"
+    },
+    { id: 5, 
+      productName: 'Apple Airpods+',
+      image: "https://images.unsplash.com/photo-1610438235354-a6ae5528385c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXBwbGUlMjBhaXJwb2RzfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      stock: "1234", 
+      status: "active", 
+      price: "$120.00"
+    },
+    { id: 6, 
+      productName: 'Apple Airpods+',
+      image: "https://images.unsplash.com/photo-1610438235354-a6ae5528385c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXBwbGUlMjBhaXJwb2RzfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      stock: "1234", 
+      status: "active", 
+      price: "$120.00"
+    },
+    { id: 7, 
+      productName: 'Apple Airpods+',
+      image: "https://images.unsplash.com/photo-1610438235354-a6ae5528385c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXBwbGUlMjBhaXJwb2RzfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      stock: "1234", 
+      status: "active", 
+      price: "$120.00"
+    },
+    { id: 8, 
+      productName: 'Apple Airpods+',
+      image: "https://images.unsplash.com/photo-1610438235354-a6ae5528385c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXBwbGUlMjBhaXJwb2RzfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      stock: "1234", 
+      status: "active", 
+      price: "$120.00"
+    },
+    { id: 9, 
+      productName: 'Apple Airpods+',
+      image: "https://images.unsplash.com/photo-1610438235354-a6ae5528385c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXBwbGUlMjBhaXJwb2RzfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      stock: "1234", 
+      status: "active", 
+      price: "$120.00"
+    },
+    { id: 10, 
+      productName: 'Apple Airpods+',
+      image: "https://images.unsplash.com/photo-1610438235354-a6ae5528385c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXBwbGUlMjBhaXJwb2RzfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      stock: "1234", 
+      status: "active", 
+      price: "$120.00"
+    },
+  ]
