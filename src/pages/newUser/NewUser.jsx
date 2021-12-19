@@ -8,7 +8,7 @@ const NewUser = () => {
             <form className="newUserForm">
                 <div className="newUserItem">
                     <label >Username</label>
-                    <input type="text" placeholder='john'/>
+                     <input type="text" placeholder='john'/>
                 </div>
                 <div className="newUserItem">
                     <label >Full Name</label>
